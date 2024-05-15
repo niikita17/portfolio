@@ -68,7 +68,7 @@ section {
     margin-bottom: 1rem;
 }
 
-.hero .cta {
+.hero .cta, allprojects {
     display: inline-block;
     padding: 0.5rem 1rem;
     margin-top: 1rem;
